@@ -1,0 +1,28 @@
+
+.body {
+    text-align: center;
+   }
+
+.titulo {
+    text-align: center;
+}
+
+.caixa {
+    display: inline-block;
+    vertical-align:top;
+    width: 250px;
+    margin: 30px;
+    background-color: lightgrey;
+    padding: 10px 20px;
+    margin-bottom: 10pix;
+    text-align: left;
+}
+
+
+.h1doNaim{
+    color:blue;
+}
+
+.h3donaim{
+    color: green;
+}
